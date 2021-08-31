@@ -7,10 +7,13 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on some cool projects
 - 🌱 I’m currently learning reactjs and backend web 
-- 👯 I’m looking to collaborate on some project in web domain
-- 🤔 I’m looking for help with front-end 
-- 💬 Ask me about ...
+- 👯 I’m looking to collaborate on web dev project
+- 💬 Ask me about anything I will more than hapy to reply
 - 📫 How to reach me: siddharthiiitg@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: java is an island
+<!--
+-
+- 🤔 I’m looking for help with front-end 
+- ⚡ Fun fact: java is an island 
+-->
 

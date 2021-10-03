@@ -24,6 +24,6 @@ I'm a tech passionate currently pursuing my undergrads from Computer Science And
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://siddharthsingh.netlify.app/)
 [![linkedin](https://img.shields.io/badge/my_linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharthsingh189/)
-[![gmail](https://img.shields.io/badge/My_Email-1DA1F2?style=for-the-badge&&logoColor=white)](https://mail.google.com/siddharthiiitg@gmail.com)
+[![gmail](https://img.shields.io/badge/siddharthiiitg@gmail.com-1DA1F2?style=for-the-badge&&logoColor=white)](https://mail.google.com/siddharthiiitg@gmail.com)
 
   

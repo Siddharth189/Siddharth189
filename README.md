@@ -1,19 +1,29 @@
-### Hi there 👋
 
-<!--
-**Siddharth189/Siddharth189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Siddharth! 👋
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on some cool projects
-- 🌱 I’m currently learning reactjs and backend web 
-- 👯 I’m looking to collaborate on web dev project
-- 💬 Ask me about anything I will more than hapy to reply
-- 📫 How to reach me: siddharthiiitg@gmail.com
-- 😄 Pronouns: He/him
-<!--
--
-- 🤔 I’m looking for help with front-end 
-- ⚡ Fun fact: java is an island 
--->
+  
+## 🚀 About Me
+I'm a tech passionate currently pursuing my undergrads from Computer Science And Engineering...
 
+  
+## 🛠 Skills
+[![](https://img.shields.io/badge/-Algorithms-orange)]()
+[![](https://img.shields.io/badge/-Data_Structure-green)]()
+[![](https://img.shields.io/badge/-Nodejs-blueviolet)]()
+[![](https://img.shields.io/badge/-Reactjs-yellowgreen)]()
+[![](https://img.shields.io/badge/-Expressjs-critical)]()
+[![](https://img.shields.io/badge/-Mongo_DB-blue)]()
+
+## Tech Stack
+
+**Client:** React
+
+**Server:** Node, Express
+
+  
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://siddharthsingh.netlify.app/)
+[![linkedin](https://img.shields.io/badge/my_linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![stackoverflow](https://img.shields.io/badge/siddharthiiitg@gmail.com-1DA1F2?style=for-the-badge&&logoColor=white)]()
+
+  
